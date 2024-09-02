@@ -1,0 +1,27 @@
+.links{
+    display: flex;
+}
+.assignments{
+    margin-left: 300px;
+    margin-top: 60px;
+    border-right: 1px solid black;
+    padding-right: 150px;
+}
+.assignment{
+    margin-left: 160px;
+    margin-top: 60px;
+}
+.assignment h1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+.headin{
+    font-size: 50px;
+}
